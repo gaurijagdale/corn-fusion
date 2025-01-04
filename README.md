@@ -28,6 +28,7 @@ CornFusion is an AI/ML project designed to predict corn leaf diseases using a mu
   - TypeScript
   - Magic UI
   - ShadCN
+  - Tailwind CSS
 - **Backend:**
   - Flask
 - **Machine Learning Models:**
