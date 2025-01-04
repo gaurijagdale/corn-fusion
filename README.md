@@ -40,7 +40,7 @@ CornFusion is an AI/ML project designed to predict corn leaf diseases using a mu
 1. Clone the repository:
    ```bash
    git clone https://github.com/gaurijagdale/corn-fusion.git
-   cd cornfusion
+   cd corn-fusion
 2. Install frontend dependencies and start the development server:
     ```bash
     cd frontend
