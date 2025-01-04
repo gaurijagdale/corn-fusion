@@ -52,8 +52,10 @@ CornFusion is an AI/ML project designed to predict corn leaf diseases using a mu
      python -m venv venv
      source venv/bin/activate  # On Windows: venv\\Scripts\\activate
     - Install dependencies:
+      ```bash
       pip install -r requirements.txt
     - Start the Flask server:
+      ```bash
       flask run
 4. Access the application:
    - Frontend runs on http://localhost:3000
@@ -74,21 +76,3 @@ This project uses the following datasets:
 - [Corn Disease Image Model](https://www.kaggle.com/models/gaurijagdale11/corn-disease-model)  
 - [CornFusion Code Notebook](https://www.kaggle.com/code/gaurijagdale11/cornfusion-main)  
 
-
-   
-
-
-
-
-
-
-https://www.kaggle.com/gaurijagdale11
-
-https://www.kaggle.com/datasets/gaurijagdale11/corn-leaf-disease
-
-
-
-https://www.kaggle.com/models/gaurijagdale11/tfidf_vectorizer 
-https://www.kaggle.com/models/gaurijagdale11/corn-disease-model
-
-https://www.kaggle.com/code/gaurijagdale11/cornfusion-main
